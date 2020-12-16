@@ -19,6 +19,9 @@ cd into root
 cd into dummy app
 
 
+( you may have to run $ yarn remove dummy-react-npm-module)
+
+
 $ yarn add REACT_MODULE_PATH
 
 
